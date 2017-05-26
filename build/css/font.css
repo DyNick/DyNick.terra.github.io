@@ -1,0 +1,18 @@
+@font-face{
+    font-family: 'AvenirNextCyr';
+    src: url('../Fonts/AvenirNextCyr-Bold.otf');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'AvenirNextCyr-Regular';
+    src: url('../Fonts/AvenirNextCyr-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'Bebas';
+    src: url('../Fonts/Bebas.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
